@@ -121,9 +121,8 @@ I enjoy developing numerical methods, mathematical models, and computational too
 ---
 
 <p align="center">
-  <i>"Mathematics is the language in which God has written the universe."</i>
+  <i>"Where mathematics meets computation, discovery begins."</i>
 </p>
-
 <!--
 **hambroukrichard/hambroukrichard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
