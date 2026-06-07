@@ -4,138 +4,204 @@
   Hi 👋, I'm M. Bragdi
 </h1>
 
-<h3 align="center">
-Mathematician | PDE Researcher | Fluid Mechanics | Scientific Computing
-</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<div align="center">
+
+### Mathematician • PDE Researcher • Fluid Mechanics • Scientific Computing
+
+*"Where mathematics meets computation, discovery begins."*
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I am a mathematician and computational scientist specializing in:
+I am a mathematician and computational scientist with research interests spanning applied mathematics, scientific computing, and machine learning for differential equations.
 
-- 📐 Partial Differential Equations (PDEs)
-- 🌊 Fluid Mechanics
-- 🔬 Mathematical Modeling
-- 🧮 Numerical Analysis
-- 🤖 Scientific Machine Learning
-- 📊 Physics-Informed Neural Networks (PINNs)
-- ⚡ High Performance Computing (HPC)
+My work focuses on developing analytical and computational techniques for complex dynamical systems arising in physics, biology, and engineering.
 
-I enjoy developing numerical methods, mathematical models, and computational tools for solving complex problems arising in physics, biology, and engineering.
+### 🔭 Research Focus
+
+* Partial Differential Equations (PDEs)
+* Fluid Mechanics & Flow Modeling
+* Mathematical Biology
+* Delay Differential Equations
+* Fractional Differential Equations
+* Stability & Bifurcation Analysis
+* Numerical Analysis
+* Scientific Machine Learning
+* Physics-Informed Neural Networks (PINNs)
+* Neural Operators
+* High Performance Computing (HPC)
+
+🌍 **Location:** Algeria
 
 ---
 
-## 🔬 Research Interests
+## 🧠 Research Interests
 
-- Nonlinear Partial Differential Equations
-- Fluid Dynamics
-- Mathematical Biology
-- Delay Differential Equations
-- Fractional Differential Equations
-- Stability Analysis
-- Bifurcation Theory
-- Computational Mathematics
-- Physics-Informed Neural Networks (PINNs)
-- Deep Learning for Scientific Computing
+```text
+Applied Mathematics
+├── Nonlinear PDEs
+├── Fluid Dynamics
+├── Mathematical Biology
+├── Dynamical Systems
+└── Fractional Calculus
+
+Scientific Computing
+├── Numerical Simulation
+├── HPC
+├── Parallel Computing
+└── Computational Modeling
+
+AI for Science
+├── PINNs
+├── Neural Operators
+├── Scientific ML
+└── Deep Learning for PDEs
+```
 
 ---
 
 ## 💻 Programming Languages
 
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge"/>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 🛠 Tools & Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
----
-
-## 📚 Current Topics
-
-- Physics-Informed Neural Networks
-- Deep Learning for PDEs
-- Numerical Simulation of Fluid Flows
-- HBV and HIV Mathematical Models
-- Stability and Sensitivity Analysis
-- Scientific Computing with Python and C++
-
----
-
-## 📈 GitHub Statistics
+## 🛠 Technologies & Tools
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/SageMath-1F425F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Lean-000000?style=for-the-badge&logo=leanpub&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 📝 Selected Research Areas
+## 📚 Current Research Topics
 
-| Area | Topics |
-|--------|--------|
-| PDEs | Nonlinear PDEs, Reaction-Diffusion Systems |
-| Fluid Mechanics | Navier-Stokes Equations, Flow Modeling |
-| Mathematical Biology | HBV, HIV, Tumor Growth Models |
-| Numerical Analysis | Finite Difference, Finite Element Methods |
-| AI for Science | PINNs, Neural Operators |
-| Scientific Computing | HPC, Parallel Computing |
-
----
-
-## 🌍 Operating Systems
-
-- 🐧 Linux
-- ❄️ NixOS
-- 🪟 Windows
+* Physics-Informed Neural Networks (PINNs)
+* Neural Operators for PDEs
+* Numerical Simulation of Fluid Flows
+* HBV and HIV Mathematical Models
+* Stability Analysis of Dynamical Systems
+* Delay Differential Equations
+* Scientific Computing with Python and C++
+* AI-Assisted Scientific Discovery
 
 ---
 
-## 📫 Contact
-
-- GitHub: https://github.com/YOUR_USERNAME
-- Google Scholar: YOUR_LINK
-- ResearchGate: YOUR_LINK
-- ORCID: YOUR_LINK
-- LinkedIn: YOUR_LINK
-
----
+## 📊 GitHub Statistics
 
 <p align="center">
-  <i>"Where mathematics meets computation, discovery begins."</i>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=hambroukrichard&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hambroukrichard&layout=compact&theme=tokyonight"/>
+
 </p>
-<!--
-**hambroukrichard/hambroukrichard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yhambroukrichard&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hambroukrichard&theme=tokyonight&margin-w=10&no-frame=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hambroukrichard&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🔬 Research Areas
+
+| Field                          | Topics                                     |
+| ------------------------------ | ------------------------------------------ |
+| Partial Differential Equations | Nonlinear PDEs, Reaction-Diffusion Systems |
+| Fluid Mechanics                | Navier-Stokes Equations, Flow Simulation   |
+| Mathematical Biology           | HBV, HIV, Tumor Growth Models              |
+| Numerical Analysis             | Finite Difference, Finite Element Methods  |
+| Scientific Machine Learning    | PINNs, Neural Operators                    |
+| Scientific Computing           | HPC, Parallel Algorithms                   |
+
+---
+
+## 🖥 Operating Systems
+
+* 🐧 Linux
+* ❄️ NixOS
+* 🪟 Windows
+
+---
+
+## 🎯 Research Goals
+
+* Develop novel numerical methods for PDEs
+* Advance Scientific Machine Learning techniques
+* Bridge mathematical theory and AI
+* Build open-source scientific software
+* Contribute to computational mathematics research
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/hambroukrichard/hambroukrichard
+* Google Scholar: ...
+* ResearchGate: ...
+* ORCID: ...
+* LinkedIn: ...
+
+---
+
+<div align="center">
+
+### Mathematics × Computation × Artificial Intelligence
+
+*"Turning mathematical theory into computational reality."*
+
+</div>
