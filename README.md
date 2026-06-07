@@ -118,11 +118,9 @@ AI for Science
 ## 📊 GitHub Statistics
 
 <p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hambroukrichard&show_icons=true&theme=tokyonight" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=hambroukrichard&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hambroukrichard&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hambroukrichard&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -130,19 +128,7 @@ AI for Science
 ## 🔥 Contribution Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yhambroukrichard&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hambroukrichard&theme=tokyonight&margin-w=10&no-frame=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=hambroukrichard&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -154,6 +140,7 @@ AI for Science
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hambroukrichard&theme=tokyo-night"/>
 
 </p>
+
 
 ---
 
