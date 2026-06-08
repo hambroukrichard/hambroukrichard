@@ -64,40 +64,21 @@ AI for Science
 
 ---
 
-## 💻 Programming Languages
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Languages & Tools
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white"/>
-<img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge"/>
-
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=python,cpp,matlab,linux,nix,docker,git,github,latex,vscode&perline=10" />
+  </a>
 </p>
 
----
-
-## 🛠 Technologies & Tools
-
 <p align="center">
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/SageMath-1F425F?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Lean-000000?style=for-the-badge&logo=leanpub&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SageMath-1F425F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Lean-000000?style=for-the-badge&logo=leanpub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
 </p>
 
 ---
@@ -119,8 +100,10 @@ AI for Science
 
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hambroukrichard&show_icons=true&theme=tokyonight" />
+</p>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hambroukrichard&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=hambroukrichard&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" />
 </p>
 
 ---
