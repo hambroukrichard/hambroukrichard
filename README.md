@@ -140,14 +140,6 @@ AI for Science
 
 ---
 
-## 🖥 Operating Systems
-
-* 🐧 Linux
-* ❄️ NixOS
-* 🪟 Windows
-
----
-
 ## 🎯 Research Goals
 
 * Develop novel numerical methods for PDEs
